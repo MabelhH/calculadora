@@ -1,0 +1,15 @@
+h1{
+  background-color: rgb(83, 83, 244);
+  color: azure;  
+  margin: 8px;
+}
+input{
+    margin: 8px;
+    border-radius: 4px;
+}
+p{
+    background-color: rgb(213, 180, 244);
+    height: 80px;
+    margin: 5px;
+    padding: 5px;
+}
